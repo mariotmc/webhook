@@ -1,0 +1,2 @@
+module Webhook::SubscriptionsHelper
+end
